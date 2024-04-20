@@ -7,10 +7,6 @@ echo "Input suhu celsius: ";
 $celc = (float) fgets(STDIN);
 echo PHP_EOL;
 
-$fahr = (9.0/5.0 * $celc) + 32;
-$kelv = $celc + 273.15;
-$ream = $celc * (4.0/5.0);
-
 fitur lengkap
 echo $celc . " derajat Celcius = " . $fahr . " derajat Fahrenheit" . PHP_EOL;
 echo $celc . " derajat Celcius = " . $kelv . " derajat Kelvin" . PHP_EOL;
