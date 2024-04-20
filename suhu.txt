@@ -13,4 +13,4 @@ echo $celc . " derajat Celcius = " . $fahr . " derajat Fahrenheit" . PHP_EOL;
 echo $celc . " derajat Celcius = " . $kelv . " derajat Kelvin" . PHP_EOL;
 echo $celc . " derajat Celcius = " . $ream . " derajat Reamur" . PHP_EOL;
 echo $celc . " derajat Celcius = " . $rank . " derajat Rankine" . PHP_EOL;
-
+    
