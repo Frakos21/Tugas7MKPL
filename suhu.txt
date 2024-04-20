@@ -6,7 +6,7 @@ echo $celc . derajat Reamur" . PHP_EOL;
 
 ada error
 
- udah diperbaharui
+udah diperbaharui
 
 
 echo $celc . " derajat Celcius = " . $fahr . " derajat Fahrenheit" . PHP_EOL;
